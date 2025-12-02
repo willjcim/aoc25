@@ -1,4 +1,4 @@
-def get_code(file_name):
+def get_code(file_name: str):
     # starting values 
     dial = 50
     code = 0
